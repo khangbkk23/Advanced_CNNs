@@ -22,5 +22,5 @@ training:
   scheduler_factor: 0.1
   scheduler_patience: 3
   min_delta: 0.001
-  save_path: "./checkpoints/best_model_final.pth"
+  save_path: "./checkpoints/best_model_final_mcnn.pth"
   weight_decay: 0.00001
